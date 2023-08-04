@@ -5,7 +5,6 @@ num2 = int(input("Captura el siguiente numero par: "))
 numPar1 = (num1%2==0)
 numPar2 = (num2%2==0)
 
-
 if not numPar1:
     print("Humano imbecil! El numero ", num1, " no es par!")
 else:
