@@ -1,5 +1,5 @@
 '''
-    Declarar multiples variablesw
+    Declarar multiples variables
     Pedir al usuario que ingrese el valor de 2 variables
     Realizar varias operaciones aritmeticas
     pmostrar resultados en consola
