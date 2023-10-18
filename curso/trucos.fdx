@@ -1,0 +1,5 @@
+1.  Para instalar una biblioteca con pip dentro de una version de python se usa el comando:
+    pythonV.V -m pip install nombre biblioteca
+
+    ejemplo: 
+    python3.8 -m pip install pycryptodomex 
