@@ -4,4 +4,6 @@
     ejemplo: 
     python3.8 -m pip install pycryptodomex
 
-2.  
+2.  El algortimo AES solo soporta:
+    AES only supports key sizes of 16, 24 or 32 bytes/chars
+    1 byte es un caracter
