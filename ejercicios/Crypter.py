@@ -22,7 +22,7 @@ def decrypt_request(encrypted_request, key):
 # Ejemplo de uso
 
 request = {'name': 'John Doe', 'age': 25, 'email': 'johndoe@example.com'}
-key = 'miKeyUnico123456'
+key = '123456789012345678901234'
 
 
 encrypted_request = encrypt_request(request, key)
