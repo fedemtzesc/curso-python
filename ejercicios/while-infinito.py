@@ -13,5 +13,5 @@ while contador <100:
         
         print("Has introducido ", numero)
     except Exception as e:
-        print("Dije un número pendejo!")
+        print("Dije un número entero pendejo!")
         
