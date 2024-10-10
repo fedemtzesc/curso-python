@@ -1,0 +1,10 @@
+1. COmando para borrar todos los paquetes instalados en un ambiente venv o cualquiera incluso el global:
+    pip freeze | xargs pip uninstall -y
+
+2. Comando para crear un ambiente virtualizado en mi proyecto de python
+  a) Primeramente me coloco dentro de la carpeta principal del proyecto
+  b) Y luego, mediante el uso de una terminal, ejecuto el siguiente comando:
+      python -m venv venv_name
+  c) Y para activarlo ejecutamos el siguiente comando en Linux:
+      source venv_name/bin/activate
+
